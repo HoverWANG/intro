@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Haofei Wang is an associate researcher and PhD advisor at Pengcheng Laboratory (PCL). Prior to joining PCL, he earned his PhD in ECE from [The Hong Kong University of Science and Technology](https://www.ust.hk) (HKUST) and BS in Automation from [Zhejiang University](https://www.zju.edu.cn) (ZJU).
+Dr. Haofei Wang is an associate researcher and PhD advisor at Pengcheng Laboratory (PCL). Before joining PCL, he earned his PhD in ECE from [The Hong Kong University of Science and Technology](https://www.ust.hk) (HKUST) and BS in Automation from [Zhejiang University](https://www.zju.edu.cn) (ZJU).
 
-Yucheng’s research interests are at the interface between machine learning, physics and scientific computing. Currently he is mainly working on optimizing physical modeling at multiscales with differentiable simulation and deep learning.
+Haofei’s research interests include human-robot interaction, deep learning, LLM and VR/AR.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
